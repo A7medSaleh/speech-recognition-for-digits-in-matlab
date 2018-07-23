@@ -4,7 +4,7 @@ Get the code from here:
 https://gum.co/PuHgK
 
 Watch code from here:
-https://youtu.be/yk_7ckhFO7Y
+https://youtu.be/LDA-lU_d4E4
 
 This code analyzes user voice saying digits and train the computer to it so it can be identified later and determine the digits said by the user. This code can be a core for very exciting projects like turning speech to text or making a voice password that can't be hacked.
 
